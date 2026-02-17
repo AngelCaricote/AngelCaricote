@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Angel
 
-<!--
-**AngelCaricote/AngelCaricote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ciclo formativo en DAW  
+💻 Especialidad en  DAW
 
-Here are some ideas to get you started:
+🎯 Objetivo: Convertirme en desarrollador profesional y seguir aprendiendo nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Perfil Técnico
+
+Me apasiona el desarrollo de software y la creación de soluciones prácticas a problemas reales.  
+Disfruto trabajando en equipo, aprendiendo nuevas herramientas y mejorando mis habilidades cada día.
+
+Me interesa especialmente:
+
+- Desarrollo web
+- Backend y bases de datos
+- Automatización de procesos
+- Inteligencia Artificial
+
+---
+
+## 🛠️ Tecnologías que domino
+
+| Lenguajes | Bases de Datos | Herramientas |
+
+|-----------|---------------|--------------|
+
+| HTML | MySQL | Git |
+
+| CSS | MongoDB | Github |
+| JavaScript | | VS Code |
+| Python | | Docker |
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- React ⚛️  
+- Node.js  
+- TypeScript  
+- Desarrollo de APIs REST  
+
+---
+
+## 📫 Cómo contactarme
+
+✉️ Email: <angelterans16@gmail.com>
+
+🐙 Github: <https://github.com/AngelCaricote>  
+
+---
+
+⭐ Gracias por visitar mi perfil.
