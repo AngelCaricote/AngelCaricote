@@ -23,15 +23,14 @@ Me interesa especialmente:
 
 ## 🛠️ Tecnologías que domino
 
-| Lenguajes | Bases de Datos | Herramientas |
+## 🛠️ Tecnologías que domino
 
-|-----------|---------------|--------------|
-
-| HTML | MySQL | Git |
-
-| CSS | MongoDB | Github |
-| JavaScript | | VS Code |
-| Python | | Docker |
+| Lenguajes   | Bases de Datos | Herramientas |
+|-------------|---------------|--------------|
+| HTML        | MySQL        | Git          |
+| CSS         | MongoDB      | GitHub       |
+| JavaScript  |               | VS Code      |
+| Python      |               | Docker       | 
 
 ---
 
