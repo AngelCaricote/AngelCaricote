@@ -32,13 +32,6 @@ Me interesa especialmente:
 
 ---
 
-## 📚 Actualmente aprendiendo
-
-- React ⚛️  
-- Node.js  
-- TypeScript  
-- Desarrollo de APIs REST  
-
 ---
 
 ## 📫 Cómo contactarme
